@@ -15,10 +15,32 @@ Nice visuals to illustrate your main concepts and why this project is important 
 
 
 Project Scope: Be as specific as possible with the scope of your project (which should be as narrowly focused as possible.)
+Monitoring livestock health is a critical component of modern dairy and meat production. Traditional methods—such as manual observation—are time-consuming, labor-intensive, and often inconsistent. As a result, issues may go unnoticed until they become serious. With the rise of computer vision and IoT technology, it is now possible to monitor cattle health continuously and in real-time, enabling earlier interventions and improving animal welfare and farm productivity.
+
+Our project focuses on a narrow yet impactful task within this larger ecosystem: developing a neural network classifier that predicts the health status of cattle using structured data derived from computer vision and sensor-based monitoring systems.
 
 Project Details: With logical organization and clear but concise writeups.
+In the agriculture industry, emerging technologies—such as those developed by companies like Precision Livestock Technologies—are capable of autonomously identifying cows and tracking key physiological and behavioral metrics, including:
+ - Weight
+ - Body temperature
+ - Sociability and interaction patterns
+ - Rumination frequency
+ - Movement and activity levels
+These systems generate structured datasets that serve as the input for our model.
+
+Our contribution is the creation of a binary classification model that places each cow into one of two health zones:
+ - Healthy
+ - Needs Attention
+We accomplish this by building and training a neural network classifier using historical labeled data. The model takes multiple numerical features (derived from computer vision and IoT sources) and outputs a predicted health class. The classifier is designed to support early identification of health issues, helping farmers prioritize which animals require intervention.
+
 
 What's next? Help us envision future developments and concerns.
+To extend the usefulness of our model, we developed a web application using Claude AI. This platform provides:
+ - Real-time updates on individual cattle health
+ - Visual dashboards displaying metrics and model outputs
+ - Health alerts and notifications when an animal shifts from "Healthy" to "Needs Attention"
+ - Potential integration with existing IoT ecosystems for seamless data flow
+Future considerations include improving model accuracy through larger datasets, expanding the classification labels beyond binary health zones, incorporating time-series analysis, and working toward deployment on edge devices for in-field use with minimal latency.
 
 Responsible AI considerations
 
