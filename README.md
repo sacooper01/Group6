@@ -6,8 +6,6 @@ Author List:
 [Ethan Snyder](https://github.com/ethansnyder4/EthanSnyder)  
 Malachi Imoh  -- Link to page  
 Rhys Nordstrom  -- Link to page  
-
-Nice visuals to illustrate your main concepts and why this project is important for businesses.  
 ![image](https://github.com/user-attachments/assets/067bf623-5c8f-4d1b-ae20-bc7bdf9d3b64)  ![image](https://github.com/user-attachments/assets/d92a97da-a753-4046-b0e3-5ad5013241dd)
 ![image](https://github.com/user-attachments/assets/a42066d4-6a92-4639-b73a-11b65bddb602)
 
@@ -16,7 +14,7 @@ Nice visuals to illustrate your main concepts and why this project is important 
 **Precision agriculture (PA)** is a management strategy that gathers, processes and analyzes temporal, spatial and individual plant and animal data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
 
 
-**Project Scope:**
+**Project Scope:**  
 Monitoring livestock health is a critical component of modern dairy and meat production. Traditional methods—such as manual observation—are time-consuming, labor-intensive, and often inconsistent. As a result, issues may go unnoticed until they become serious. With the rise of computer vision and IoT technology, it is now possible to monitor cattle health continuously and in real-time, enabling earlier interventions and improving animal welfare and farm productivity.
 
 Our project focuses on a narrow yet impactful task within this larger ecosystem: developing a neural network classifier that predicts the health status of cattle using structured data derived from computer vision and sensor-based monitoring systems.
