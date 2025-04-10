@@ -26,11 +26,12 @@ In the agriculture industry, emerging technologies—such as those developed by 
  - Sociability and interaction patterns
  - Rumination frequency
  - Movement and activity levels  
-These systems generate structured datasets that serve as the input for our model.
 
+These systems generate structured datasets that serve as the input for our model.  
 Our contribution is the creation of a binary classification model that places each cow into one of two health zones:
  - Healthy
- - Needs Attention  
+ - Needs Attention
+ 
 We accomplish this by building and training a neural network classifier using historical labeled data. The model takes multiple numerical features (derived from computer vision and IoT sources) and outputs a predicted health class. The classifier is designed to support early identification of health issues, helping farmers prioritize which animals require intervention.
 
 
