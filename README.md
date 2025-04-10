@@ -14,23 +14,23 @@ Nice visuals to illustrate your main concepts and why this project is important 
 **Precision agriculture (PA)** is a management strategy that gathers, processes and analyzes temporal, spatial and individual plant and animal data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
 
 
-Project Scope: Be as specific as possible with the scope of your project (which should be as narrowly focused as possible.)
+Project Scope: Be as specific as possible with the scope of your project (which should be as narrowly focused as possible.)  
 Monitoring livestock health is a critical component of modern dairy and meat production. Traditional methods—such as manual observation—are time-consuming, labor-intensive, and often inconsistent. As a result, issues may go unnoticed until they become serious. With the rise of computer vision and IoT technology, it is now possible to monitor cattle health continuously and in real-time, enabling earlier interventions and improving animal welfare and farm productivity.
 
 Our project focuses on a narrow yet impactful task within this larger ecosystem: developing a neural network classifier that predicts the health status of cattle using structured data derived from computer vision and sensor-based monitoring systems.
 
-Project Details: With logical organization and clear but concise writeups.
-In the agriculture industry, emerging technologies—such as those developed by companies like Precision Livestock Technologies—are capable of autonomously identifying cows and tracking key physiological and behavioral metrics, including:
+Project Details: With logical organization and clear but concise writeups.  
+In the agriculture industry, emerging technologies—such as those developed by companies like Precision Livestock Technologies—are capable of autonomously identifying cows and tracking key physiological and behavioral metrics, including:  
  - Weight
  - Body temperature
  - Sociability and interaction patterns
  - Rumination frequency
- - Movement and activity levels
+ - Movement and activity levels  
 These systems generate structured datasets that serve as the input for our model.
 
 Our contribution is the creation of a binary classification model that places each cow into one of two health zones:
  - Healthy
- - Needs Attention
+ - Needs Attention  
 We accomplish this by building and training a neural network classifier using historical labeled data. The model takes multiple numerical features (derived from computer vision and IoT sources) and outputs a predicted health class. The classifier is designed to support early identification of health issues, helping farmers prioritize which animals require intervention.
 
 
