@@ -9,6 +9,7 @@ Rhys Nordstrom  -- Link to page
 
 Nice visuals to illustrate your main concepts and why this project is important for businesses.  
 ![image](https://github.com/user-attachments/assets/067bf623-5c8f-4d1b-ae20-bc7bdf9d3b64)  
+[https://www.youtube.com/watch?v=OWM2iF7S8Jw](https://youtu.be/OWM2iF7S8Jw?si=J8L2TB4WRplsWdyn)  
 
 **Precision agriculture (PA)** is a management strategy that gathers, processes and analyzes temporal, spatial and individual plant and animal data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
 
