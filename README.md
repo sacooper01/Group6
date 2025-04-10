@@ -1,16 +1,14 @@
 # Group 6 - AI in Agriculture 
  
 
-
-Nice visuals to illustrate your main concepts and why this project is important for businesses.  
-![image](https://github.com/user-attachments/assets/067bf623-5c8f-4d1b-ae20-bc7bdf9d3b64)  
-
-
 Author List:   
 [Augie Cooper](https://github.com/sacooper01/AugieCooper/blob/main/README.md)  
 Ethan Snyder  -- Link to page  
 Malachi Imoh  -- Link to page  
 Rhys Nordstrom  -- Link to page  
+
+Nice visuals to illustrate your main concepts and why this project is important for businesses.  
+![image](https://github.com/user-attachments/assets/067bf623-5c8f-4d1b-ae20-bc7bdf9d3b64)  
 
 **Precision agriculture (PA)** is a management strategy that gathers, processes and analyzes temporal, spatial and individual plant and animal data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
 
