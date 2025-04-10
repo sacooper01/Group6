@@ -1,8 +1,10 @@
 # Group6
-Group 6 Final AI Presentation  
+AI in Agriculture  
 
 
-Nice visuals to illustrate your main concepts and why this project is important for businesses.
+Nice visuals to illustrate your main concepts and why this project is important for businesses.  
+![image](https://github.com/user-attachments/assets/067bf623-5c8f-4d1b-ae20-bc7bdf9d3b64)  
+
 
 Author List:   
 [Augie Cooper](https://github.com/sacooper01/AugieCooper/blob/main/README.md)  
