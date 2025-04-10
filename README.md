@@ -3,7 +3,7 @@
 
 Author List:   
 [Augie Cooper](https://github.com/sacooper01/AugieCooper/blob/main/README.md)  
-Ethan Snyder  -- Link to page  
+[Ethan Snyder](https://github.com/ethansnyder4/EthanSnyder)  
 Malachi Imoh  -- Link to page  
 Rhys Nordstrom  -- Link to page  
 
