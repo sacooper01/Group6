@@ -5,7 +5,7 @@ Group 6 Final AI Presentation
 Nice visuals to illustrate your main concepts and why this project is important for businesses.
 
 Author List:   
-Augie Cooper  -- Link to page  
+Augie Cooper[Group README](https://github.com/sacooper01/AugieCooper/blob/17c0e76b872b83a9e5b6ba66255582155d52c4d4/README.md)  
 Ethan Snyder  -- Link to page  
 Malachi Imoh  -- Link to page  
 Rhys Nordstrom  -- Link to page
