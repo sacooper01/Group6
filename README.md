@@ -24,7 +24,7 @@ In the agriculture industry, emerging technologies—such as those developed by 
  - Weight
  - Body temperature
  - Sociability and interaction patterns
- - Rumination frequency
+ - Rumination time
  - Movement and activity levels  
 
 These systems generate structured datasets that serve as the input for our model.  
@@ -32,7 +32,7 @@ Our contribution is the creation of a binary classification model that places ea
  - Healthy
  - Needs Attention
  
-We accomplish this by building and training a neural network classifier using historical labeled data. The model takes multiple numerical features (derived from computer vision and IoT sources) and outputs a predicted health class. The classifier is designed to support early identification of health issues, helping farmers prioritize which animals require intervention.
+We accomplish this by building and training a neural network classifier using historical labeled data. The model takes multiple numerical and categorical features (derived from computer vision and IoT sources) and outputs a predicted health class. The classifier is designed to support early identification of health issues, helping farmers prioritize which animals require intervention.
 
 
 What's next? Help us envision future developments and concerns.
