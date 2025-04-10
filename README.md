@@ -8,7 +8,9 @@ Malachi Imoh  -- Link to page
 Rhys Nordstrom  -- Link to page  
 
 Nice visuals to illustrate your main concepts and why this project is important for businesses.  
-![image](https://github.com/user-attachments/assets/067bf623-5c8f-4d1b-ae20-bc7bdf9d3b64)  
+![image](https://github.com/user-attachments/assets/067bf623-5c8f-4d1b-ae20-bc7bdf9d3b64)  ![image](https://github.com/user-attachments/assets/d92a97da-a753-4046-b0e3-5ad5013241dd)
+![image](https://github.com/user-attachments/assets/a42066d4-6a92-4639-b73a-11b65bddb602)
+
 [https://www.youtube.com/watch?v=OWM2iF7S8Jw](https://youtu.be/OWM2iF7S8Jw?si=J8L2TB4WRplsWdyn)  
 
 **Precision agriculture (PA)** is a management strategy that gathers, processes and analyzes temporal, spatial and individual plant and animal data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
