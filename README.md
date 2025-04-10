@@ -1,4 +1,4 @@
-# Group6 - AI in Agriculture 
+# Group 6 - AI in Agriculture 
  
 
 
@@ -10,7 +10,9 @@ Author List:
 [Augie Cooper](https://github.com/sacooper01/AugieCooper/blob/main/README.md)  
 Ethan Snyder  -- Link to page  
 Malachi Imoh  -- Link to page  
-Rhys Nordstrom  -- Link to page
+Rhys Nordstrom  -- Link to page  
+
+Precision agriculture (PA) is a management strategy that gathers, processes and analyzes temporal, spatial and individual plant and animal data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
 
 Project Scope: Be as specific as possible with the scope of your project (which should be as narrowly focused as possible.)
 
