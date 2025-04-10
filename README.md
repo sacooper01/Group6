@@ -41,6 +41,7 @@ To extend the usefulness of our model, we developed a web application using Clau
  - Visual dashboards displaying metrics and model outputs
  - Health alerts and notifications when an animal shifts from "Healthy" to "Needs Attention"
  - Potential integration with existing IoT ecosystems for seamless data flow
+
 Future considerations include improving model accuracy through larger datasets, expanding the classification labels beyond binary health zones, incorporating time-series analysis, and working toward deployment on edge devices for in-field use with minimal latency.
 
 Responsible AI considerations
