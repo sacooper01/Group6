@@ -14,12 +14,12 @@ Nice visuals to illustrate your main concepts and why this project is important 
 **Precision agriculture (PA)** is a management strategy that gathers, processes and analyzes temporal, spatial and individual plant and animal data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
 
 
-Project Scope: Be as specific as possible with the scope of your project (which should be as narrowly focused as possible.)  
+**Project Scope:**
 Monitoring livestock health is a critical component of modern dairy and meat production. Traditional methods—such as manual observation—are time-consuming, labor-intensive, and often inconsistent. As a result, issues may go unnoticed until they become serious. With the rise of computer vision and IoT technology, it is now possible to monitor cattle health continuously and in real-time, enabling earlier interventions and improving animal welfare and farm productivity.
 
 Our project focuses on a narrow yet impactful task within this larger ecosystem: developing a neural network classifier that predicts the health status of cattle using structured data derived from computer vision and sensor-based monitoring systems.
 
-Project Details: With logical organization and clear but concise writeups.  
+**Project Details:**  
 In the agriculture industry, emerging technologies—such as those developed by companies like Precision Livestock Technologies—are capable of autonomously identifying cows and tracking key physiological and behavioral metrics, including:  
  - Weight
  - Body temperature
@@ -35,7 +35,7 @@ Our contribution is the creation of a binary classification model that places ea
 We accomplish this by building and training a neural network classifier using historical labeled data. The model takes multiple numerical and categorical features (derived from computer vision and IoT sources) and outputs a predicted health class. The classifier is designed to support early identification of health issues, helping farmers prioritize which animals require intervention.
 
 
-What's next? Help us envision future developments and concerns.
+**Future developments and concerns.**
 To extend the usefulness of our model, we developed a web application using Claude AI. This platform provides:
  - Real-time updates on individual cattle health
  - Visual dashboards displaying metrics and model outputs
@@ -44,9 +44,19 @@ To extend the usefulness of our model, we developed a web application using Clau
 
 Future considerations include improving model accuracy through larger datasets, expanding the classification labels beyond binary health zones, incorporating time-series analysis, and working toward deployment on edge devices for in-field use with minimal latency.
 
-Responsible AI considerations
+**Considerations**
+ - Privacy
+ - Accountability
+ - Stress on animals (over intervention)
+ - Environmental
 
-A reference list with links to the references you have used, and any additional resources relevant to this topic. The reference list should include at least one relevant research paper (not news articles, medium, blog, library documentation, or LinkedIn posts) that is high quality, less than 3 years old, and from one of the research sources listed below. Note that if a project topic lists specific paper(s), they must be included and presented.
+
+**References:**
+ - https://www.researchgate.net/publication/388666536_Sensor_and_Computer_Vision_Based_Cattle_Health_Monitoring_and_Management
+ - https://dac.digital/case-studies/how-our-ai-driven-algorithms-enabled-the-detection-of-early-signs-of-cows-diseases/#:~:text=Predictive%20AI%20algorithms%20empower%20farmers,of%20illness%20within%20the%20herd.
+ - https://www.precision-livestock.com/
+
+
 
 
 (2) A well-documented code file that you can run to demo your project. This can be a .py file, a Jupyter Notebook, or a link to a Colab. Make sure you can run the code during the presentation for a demo. You can demo code examples found on the internet, but you must cite the source.
