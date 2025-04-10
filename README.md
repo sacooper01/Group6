@@ -1,5 +1,5 @@
-# Group6
-AI in Agriculture  
+# Group6 - AI in Agriculture 
+ 
 
 
 Nice visuals to illustrate your main concepts and why this project is important for businesses.  
