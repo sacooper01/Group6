@@ -32,7 +32,7 @@ Our contribution is the creation of a binary classification model that places ea
  - Healthy
  - Needs Attention
  
-We accomplish this by building and training a neural network classifier using historical labeled data. The model takes multiple numerical and categorical features (derived from computer vision and IoT sources) and outputs a predicted health class. The classifier is designed to support early identification of health issues, helping farmers prioritize which animals require intervention. 
+We accomplish this by building and training a neural network classifier using labeled data. The model takes multiple numerical and categorical features (derived from computer vision and IoT sources) and outputs a predicted health class. The classifier is designed to support early identification of health issues, helping farmers prioritize which animals require intervention. 
 
 To extend the usefulness of our model, we developed a web application using Claude AI. This platform provides:
  - Real-time updates on individual cattle health
