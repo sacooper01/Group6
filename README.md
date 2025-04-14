@@ -54,7 +54,8 @@ Future considerations include improving model accuracy through larger datasets, 
  - https://dac.digital/case-studies/how-our-ai-driven-algorithms-enabled-the-detection-of-early-signs-of-cows-diseases/#:~:text=Predictive%20AI%20algorithms%20empower%20farmers,of%20illness%20within%20the%20herd.
  - https://www.precision-livestock.com/
 
-
+##Google App Script site##
+- https://script.google.com/macros/s/AKfycbz7RhG_92ijhqukDVa_brn9IVGn-V6-fV4_pGxAXZlokItnNYGZQ1aH6pMvUxzUfA/exec
 
 
 (2) A well-documented code file that you can run to demo your project. This can be a .py file, a Jupyter Notebook, or a link to a Colab. Make sure you can run the code during the presentation for a demo. You can demo code examples found on the internet, but you must cite the source.
