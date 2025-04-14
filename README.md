@@ -65,8 +65,6 @@ Future considerations include improving model accuracy through larger datasets, 
 [https://www.youtube.com/watch?v=OWM2iF7S8Jw](https://youtu.be/OWM2iF7S8Jw?si=J8L2TB4WRplsWdyn)  
 
 
-(2) A well-documented code file that you can run to demo your project. This can be a .py file, a Jupyter Notebook, or a link to a Colab. Make sure you can run the code during the presentation for a demo. You can demo code examples found on the internet, but you must cite the source.
-
 
 **Project Boards**  
 [Actual Kanban label](https://github.com/users/ethansnyder4/projects/1/views/1)  
