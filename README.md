@@ -59,7 +59,7 @@ Future considerations include improving model accuracy through larger datasets, 
  - [OpenAI](https://openai.com)   
 
 **Google App Script site**
-- https://script.google.com/macros/s/AKfycbz7RhG_92ijhqukDVa_brn9IVGn-V6-fV4_pGxAXZlokItnNYGZQ1aH6pMvUxzUfA/exec
+- ([https://script.google.com/macros/s/AKfycbz7RhG_92ijhqukDVa_brn9IVGn-V6-fV4_pGxAXZlokItnNYGZQ1aH6pMvUxzUfA/exec](https://script.google.com/macros/s/AKfycbz7RhG_92ijhqukDVa_brn9IVGn-V6-fV4_pGxAXZlokItnNYGZQ1aH6pMvUxzUfA/exec))
 
 **Informative YouTube Video**  
 [https://www.youtube.com/watch?v=OWM2iF7S8Jw](https://youtu.be/OWM2iF7S8Jw?si=J8L2TB4WRplsWdyn)  
