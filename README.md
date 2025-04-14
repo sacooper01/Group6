@@ -6,6 +6,8 @@ Author List:
 [Ethan Snyder](https://github.com/ethansnyder4/EthanSnyder)  
 Malachi Imoh  -- Link to page  
 [Rhys Nordstrom](https://github.com/rvnordstrom/rvnordstrom.github.io/blob/main/README.md) 
+
+
 ![image](https://github.com/user-attachments/assets/067bf623-5c8f-4d1b-ae20-bc7bdf9d3b64)  ![image](https://github.com/user-attachments/assets/d92a97da-a753-4046-b0e3-5ad5013241dd)
 ![image](https://github.com/user-attachments/assets/a42066d4-6a92-4639-b73a-11b65bddb602)
 
