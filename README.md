@@ -49,11 +49,14 @@ Future considerations include improving model accuracy through larger datasets, 
  - Stress on animals (over intervention)
  - Environmental
 
+**Article:**  
+ - [Research Article](https://www.researchgate.net/publication/388666536_Sensor_and_Computer_Vision_Based_Cattle_Health_Monitoring_and_Management)   
+ - The research article explores how smart farming technologies like IoT, computer vision, wearable sensors, and cloud computing enhance livestock health monitoring and agricultural efficiency. It emphasizes sustainable farming practices, real-time data sharing, and automation to address global food security and resource challenges, aligning with the UN’s 2030 Sustainable Development Goals.  
 
-**References:**
- - https://www.researchgate.net/publication/388666536_Sensor_and_Computer_Vision_Based_Cattle_Health_Monitoring_and_Management
- - https://dac.digital/case-studies/how-our-ai-driven-algorithms-enabled-the-detection-of-early-signs-of-cows-diseases/#:~:text=Predictive%20AI%20algorithms%20empower%20farmers,of%20illness%20within%20the%20herd.
- - https://www.precision-livestock.com/
+**Additional Resources:**
+ - [Another Article](https://dac.digital/case-studies/how-our-ai-driven-algorithms-enabled-the-detection-of-early-signs-of-cows-diseases/#:~:text=Predictive%20AI%20algorithms%20empower%20farmers,of%20illness%20within%20the%20herd.)  
+ - [Precision Livestock](https://www.precision-livestock.com/)  
+ - [OpenAI](https://openai.com)   
 
 **Google App Script site**
 - https://script.google.com/macros/s/AKfycbz7RhG_92ijhqukDVa_brn9IVGn-V6-fV4_pGxAXZlokItnNYGZQ1aH6pMvUxzUfA/exec
@@ -66,8 +69,5 @@ Future considerations include improving model accuracy through larger datasets, 
 
 
 **Project Boards**  
-Actual Kanban label  
-https://github.com/users/ethansnyder4/projects/1/views/1  
-
-Matching example  
-https://github.com/users/ethansnyder4/projects/2/views/1
+[Actual Kanban label](https://github.com/users/ethansnyder4/projects/1/views/1)  
+[Matching example](https://github.com/users/ethansnyder4/projects/2/views/1)
