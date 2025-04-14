@@ -4,7 +4,7 @@
 Author List:   
 [Augie Cooper](https://github.com/sacooper01/AugieCooper/blob/main/README.md)  
 [Ethan Snyder](https://github.com/ethansnyder4/EthanSnyder)  
-[Malachi Imoh](https://github.com/mjimoh1/mjimoh1/blob/main/README.md)
+[Malachi Imoh](https://github.com/mjimoh1/mjimoh1/blob/main/README.md)  
 [Rhys Nordstrom](https://github.com/rvnordstrom/rvnordstrom.github.io/blob/main/README.md)  
 
 **Precision agriculture (PA)** is a management strategy that gathers, processes and analyzes temporal, spatial and individual plant and animal data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
