@@ -8,14 +8,14 @@ Malachi Imoh  -- Link to page
 [Rhys Nordstrom](https://github.com/rvnordstrom/rvnordstrom.github.io/blob/main/README.md)  
 
 **Precision agriculture (PA)** is a management strategy that gathers, processes and analyzes temporal, spatial and individual plant and animal data and combines it with other information to support management decisions according to estimated variability for improved resource use efficiency, productivity, quality, profitability and sustainability of agricultural production.
-
+![image](https://github.com/user-attachments/assets/d92a97da-a753-4046-b0e3-5ad5013241dd)  
 
 **Project Scope:**  
 Monitoring livestock health is a critical component of modern dairy and meat production. Traditional methods—such as manual observation—are time-consuming, labor-intensive, and often inconsistent. As a result, issues may go unnoticed until they become serious. With the rise of computer vision and IoT technology, it is now possible to monitor cattle health continuously and in real-time, enabling earlier interventions and improving animal welfare and farm productivity.
 
 Our project focuses on a narrow yet impactful task within this larger ecosystem: developing a neural network classifier that predicts the health status of cattle using structured data derived from computer vision and sensor-based monitoring systems.  
 
-![image](https://github.com/user-attachments/assets/067bf623-5c8f-4d1b-ae20-bc7bdf9d3b64)  ![image](https://github.com/user-attachments/assets/d92a97da-a753-4046-b0e3-5ad5013241dd)  
+![image](https://github.com/user-attachments/assets/067bf623-5c8f-4d1b-ae20-bc7bdf9d3b64)  
 
 
 **Project Details:**  
@@ -39,11 +39,11 @@ To extend the usefulness of our model, we developed a web application using Clau
 
 ![image](https://github.com/user-attachments/assets/a42066d4-6a92-4639-b73a-11b65bddb602)  
 
-**Future developments and concerns.** 
+**Future developments and concerns:** 
 
 Future considerations include improving model accuracy through larger datasets, expanding the classification labels beyond binary health zones, incorporating time-series analysis, potential integration with existing IoT ecosystems for seamless data flow, and  health alerts and notifications when an animal shifts from "Healthy" to "Needs Attention"
 
-**Considerations**
+**Considerations:**
  - Privacy
  - Accountability
  - Stress on animals (over intervention)
@@ -58,7 +58,7 @@ Future considerations include improving model accuracy through larger datasets, 
 **Google App Script site**
 - https://script.google.com/macros/s/AKfycbz7RhG_92ijhqukDVa_brn9IVGn-V6-fV4_pGxAXZlokItnNYGZQ1aH6pMvUxzUfA/exec
 
-**Informative YouTube Video**
+**Informative YouTube Video**  
 [https://www.youtube.com/watch?v=OWM2iF7S8Jw](https://youtu.be/OWM2iF7S8Jw?si=J8L2TB4WRplsWdyn)  
 
 
